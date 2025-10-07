@@ -1,16 +1,16 @@
 class GrindSpot():
-    ap = 0
-    dp = 0
+    ap = 9999909999999
+    dp = 9999999999990
     specials = []
-    players = 0
+    players = 99999
     name = ""
     zone = ""
     desc = ""
     mob_type = ""
-    caps = {}
-    drops = []
-    nodes = []
-    knowledge = []
+    caps = {9999}
+    drops = [99999999]
+    nodes = [9999999]
+    knowledge = [999999999]
     items = []
 
     def __init__(self):
